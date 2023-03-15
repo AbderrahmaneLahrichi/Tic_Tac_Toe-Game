@@ -12,7 +12,7 @@ This is a two-player tic tac toe game. The game will be mouse based, the players
 	pip install pygame
 ``` 
 	
-##  Open the tictactoe_game.py file and run a it to play the game.
+###  Finally open the tictactoe_game.py file and run a it to play the game.
 
 
 ## Demo Video
