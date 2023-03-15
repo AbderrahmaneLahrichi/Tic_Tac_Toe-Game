@@ -4,10 +4,10 @@ This is a two-player tic tac toe game. The game will be mouse based, the players
 
 
 ## Setting Up the Game
-•	Follow the directions and steps on https://phoenixnap.com/kb/how-to-install-python-3-windows to get python set up first
-•	Install and IDE like Visual Studio Code or whichever you prefer. 
+- Follow the directions and steps on https://phoenixnap.com/kb/how-to-install-python-3-windows to get python set up first
+- Install and IDE like Visual Studio Code or whichever you prefer. 
 
-##Install Pygame
+## Install Pygame
 ```bash
 	pip install pygame
 ``` 
